@@ -1,2 +1,0 @@
-plant 4h harvest 13h water correct 18h
-							wrong 6h
