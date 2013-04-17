@@ -309,14 +309,16 @@ function loadpage($url,$file){
 	}
 }
 function getCookieValue($input){
-$cookie_tmp_val=str_replace("=",";",$input);
-$cookie_value=explode(";",$cookie_tmp_val)[1];
-return $cookie_value;
+	$cookie_tmp_val=str_replace("=",";",$input);
+	$cookie_tmp_val=explode(";",$cookie_tmp_val);
+	$cookie_value=$cookie_tmp_val[1];
+	return $cookie_value;
 }
 function getCookieName($input){
-$cookie_tmp_val=str_replace("=",";",$input);
-$cookie_name=explode(";",$cookie_tmp_val)[0];
-return $cookie_name;
+	$cookie_tmp_val=str_replace("=",";",$input);
+	$cookie_tmp_val=explode(";",$cookie_tmp_val);
+	$cookie_name=$cookie_tmp_val[0];
+	return $cookie_name;
 }
 
 ?>
