@@ -6,7 +6,6 @@
 <body>
 <?php
 ini_set('max_execution_time', 10); //300 seconds = 5 minutes
-#date_default_timezone_set();
 require_once "colors.php";
 $minutes_labels = array(
 	"0",
@@ -25,7 +24,11 @@ $hours_labels = array(
 $days_labels=array();
 
 #echo "Data file last loaded: ".date("D, d-M-Y, H:i:s",filemtime("tmp/full_list.txt"))."<br> \n";
-echo "This page loaded: ".date("D, d-M-Y, H:i:s",time())."<br> \n";
+
+#these are going to be adjusted to client time
+$today=time()+$_GET['timediff'];
+echo "This page loaded: ".date("D, d-M-Y, H:i:s",$today)."<br> \n";
+
 $datetime1=new datetime(date("D, d-M-Y, H:i:s",filemtime("tmp/full_list.txt")));
 $datetime2=new datetime(date("D, d-M-Y, H:i:s",time()));
 $interval=date_diff($datetime1,$datetime2);
@@ -35,14 +38,27 @@ echo "Age of the data file at page load: ".$interval->format($hours.':'.'%i'.':'
 echo "<a href='crawler.php'>Update file</a><br> \n <br> \n";
 
 $fp = fopen("tmp/full_list.txt", "r");
-$k=0;
 $entry=array();
 $courses=array();
 $time_next_asked=array();
 if ($fp){
+	$k=0;
 	while (($line = fgets($fp, 4096)) !== false){
-		$fields = array ('course', 'level','text1','text2','ask_next');
+		#$fields = array ('course','level','text1','text2','ask_next');
+		#added new fields
+		$fields = array ('course', 'level','text1','text2','ask_next','asknextdate','askedlast','interval');
 		$entry[$k] = array_combine ( $fields, explode ( "|", $line ) );
+		#adjust fields ##TODO Problem: fields will get overwritten on fresh load!
+		#add interval
+		if($entry[$k]['askedlast']!="unknown" && $entry[$k]['interval']=="unknown"){
+			$entry[$k]['interval']=round($entry[$k]['asknextdate']-$entry[$k]['askedlast']/(3600*24));
+		}
+		#add asklast
+		if($entry[$k]['ask_next']=="now" || $entry[$k]['asknextdate'] < $today){
+			$entry[$k]['askedlast']=$today;
+		}
+		##
+
 		$courses[$k]=$entry[$k]['course'];
 		$time_next_asked[$k]=$entry[$k]['ask_next'];
 		$k++;
@@ -345,9 +361,23 @@ drawGraph($days_array,$days_labels,"Days");
 
 
 <h2>Raw Data</h2>
-<textarea cols="100" rows="10">
+<textarea cols="140" rows="10">
 <?php
-echo file_get_contents("tmp/full_list.txt")
+$filtered_data=file_get_contents("tmp/full_list.txt");
+$filename = "tmp/full_list.txt";
+$fp = fopen($filename, "r");
+#$filtered_data="Course title|level|text 1|text2|ask next in|ask next date (seconds)|asked last date (seconds)|current interval (days) \n";
+$filtered_data="Course title|level|text 1|text2|ask next in \n";
+while (($line = fgets($fp, 4096)) !== false){
+	$line_array=explode("|",$line);
+	$ignore=$line_array[4];
+	if($ignore!="Ignored"){
+#		$filtered_data.=$line;
+		$filtered_data.=$line_array[0]."|".$line_array[1]."|".$line_array[2]."|".$line_array[3]."|".$line_array[4]." \n";
+	}
+}
+fclose($fp);
+echo $filtered_data;
 ?>
 </textarea>
 
