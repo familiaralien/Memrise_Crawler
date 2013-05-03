@@ -5,6 +5,10 @@
 </head>
 <body>
 <?php
+
+#TODO:
+#fix graphs for low numbers 1 should be at least 1 pixel; include border
+
 ini_set('max_execution_time', 10); //300 seconds = 5 minutes
 require_once "colors.php";
 $minutes_labels = array(
@@ -27,6 +31,7 @@ $days_labels=array();
 
 #these are going to be adjusted to client time
 $today=time()+$_GET['timediff'];
+
 echo "This page loaded: ".date("D, d-M-Y, H:i:s",$today)."<br> \n";
 
 $datetime1=new datetime(date("D, d-M-Y, H:i:s",filemtime("tmp/full_list.txt")));
@@ -40,27 +45,23 @@ echo "<a href='crawler.php'>Update file</a><br> \n <br> \n";
 $fp = fopen("tmp/full_list.txt", "r");
 $entry=array();
 $courses=array();
-$time_next_asked=array();
+#$time_next_asked=array();
 if ($fp){
 	$k=0;
 	while (($line = fgets($fp, 4096)) !== false){
-		#$fields = array ('course','level','text1','text2','ask_next');
-		#added new fields
 		$fields = array ('course', 'level','text1','text2','ask_next','asknextdate','askedlast','interval');
 		$entry[$k] = array_combine ( $fields, explode ( "|", $line ) );
-		#adjust fields ##TODO Problem: fields will get overwritten on fresh load!
 		#add interval
 		if($entry[$k]['askedlast']!="unknown" && $entry[$k]['interval']=="unknown"){
-			$entry[$k]['interval']=round($entry[$k]['asknextdate']-$entry[$k]['askedlast']/(3600*24));
+			$entry[$k]['interval']=round($entry[$k]['asknextdate']-$entry[$k]['askedlast']/(86400));
 		}
-		#add asklast
-		if($entry[$k]['ask_next']=="now" || $entry[$k]['asknextdate'] < $today){
+		#add askedlast
+		if($entry[$k]['asknextdate'] <= $today){
 			$entry[$k]['askedlast']=$today;
 		}
-		##
 
 		$courses[$k]=$entry[$k]['course'];
-		$time_next_asked[$k]=$entry[$k]['ask_next'];
+		#$time_next_asked[$k]=timeToText($entry[$k]['asknextdate']-$today);
 		$k++;
 	}
 }
@@ -105,7 +106,7 @@ function rnd_color(){
 }
 
 function sortValues($list){
-	global $minutes_array,$hours_array,$days_array,$num_of_courses,$course_size,$days_labels;
+	global $minutes_array,$hours_array,$days_array,$num_of_courses,$course_size,$days_labels, $today;
 	$minutes=array();
 	$hours=array();
 	$days=array();
@@ -117,10 +118,10 @@ function sortValues($list){
 	foreach($course_size as $key=>$value){
 		$days1[$key]=array();
 		for(;$i<$value+$previous_value;$i++){
-			$asknext=$list[$i]['ask_next'];
-			#put values into the days1 array
-			if(strpos($asknext,"day")!=FALSE){
-				array_push($days1[$key],getNumber($asknext,"a day"));
+			$timediff=$list[$i]['asknextdate']-$today;
+			#put values into the days1 array to find the maximum number of days; this is used to know the maximum value of the x-axis later
+			if($timediff>=86400){
+				array_push($days1[$key],round($timediff/86400));
 			}	
 		}
 		$previous_value=$i;
@@ -132,6 +133,7 @@ function sortValues($list){
 	for($k=0;$k<=$maxdays;$k++){
 		array_push($days_labels,$k);
 	}
+	$days_labels[25]="&#8805&nbsp;25";
 	
 	#loop through courses
 	$i=0;
@@ -141,15 +143,21 @@ function sortValues($list){
 		$hours[$key]=array();
 		$days[$key]=array();
 		for(;$i<$value+$previous_value;$i++){
-			$asknext=$list[$i]['ask_next'];
-			#put values into the minutes array
-			#echo $asknext."[".strpos($asknext,"now")."]<br> \n";
-			if(strpos($asknext,"now").""=="0"){array_push($minutes[$key],0);}
-			if(strpos($asknext,"minute")!=FALSE){array_push($minutes[$key],getNumber($asknext,"a minute"));}
-			#put values into the hours array
-			if(strpos($asknext,"hour")!=FALSE){array_push($hours[$key],getNumber($asknext,"an hour"));}
-			#put values into the days array
-			if(strpos($asknext,"day")!=FALSE){array_push($days[$key],getNumber($asknext,"a day"));}
+			if($list[$i]['asknextdate']!=="Ignored"){
+				$timediff=$list[$i]['asknextdate']-$today;
+				if($timediff<60){
+					array_push($minutes[$key],0);
+				}
+				elseif($timediff>=60 && $timediff<3600){
+					array_push($minutes[$key],round($timediff/60));
+				}
+				elseif($timediff>=3600 && $timediff<86400){
+					array_push($hours[$key],round($timediff/3600));
+				}
+				elseif($timediff>=86400){
+					array_push($days[$key],round($timediff/86400));
+				}				
+			}
 		}
 		$previous_value=$i;
 		
@@ -211,11 +219,17 @@ function sortValues($list){
 		);	
 		$days_array[$key]=array();
 		$days_array[$key][0]=$zeroh[$key]+$threeh[$key]+$sixh[$key]+$twelveh[$key]+$twentyfourh[$key]-$oneday;
+		$limit=25;
 		for($k=1;$k<=$maxdays;$k++){
-			array_push($days_array[$key],0);
+			if($k<=$limit){
+				$k2=$k;
+				array_push($days_array[$key],0);
+			}
+			else{$k2=$limit;}
+			#array_push($days_array[$key],0);
 			foreach($days[$key] as $nkey=>$nvalue){
 				if($nvalue==$k){
-					$days_array[$key][$k]++;
+					$days_array[$key][$k2]++;
 				}
 			}
 		}
@@ -276,14 +290,17 @@ function drawGraph($array,$labels,$xlabel){
 }
 function drawData($array,$pos,$ymax,$label){
 	global $colors;
+	$datawidth=40;
 	$factor=200/$ymax;
 	$sum=getSum($array);
+	if($sum==0){$border=0;}#making zero bars invisible;
+	else{$border=1;}
 	#DataObject
-	$DataObject='<div style="position:absolute;left:'.(getOffset($ymax)+$pos*50).'px;top:199px;">'." \n";
+	$DataObject='<div style="position:absolute;left:'.(getOffset($ymax)+$pos*$datawidth).'px;top:199px;">'." \n";
 	#xline
-	$DataObject.='<div style="position:absolute;left:0px;width:50px;height:1px;background-color:#000000"></div>'." \n";
+	$DataObject.='<div style="position:absolute;left:0px;width:'.$datawidth.'px;height:1px;background-color:#000000"></div>'." \n";
 	#container
-	$DataObject.='<div style="position:absolute;bottom:-1px;left:15px;width:20;height:'.round($factor*$sum).'px;border:1px solid black;">'." \n";
+	$DataObject.='<div style="position:absolute;bottom:-1px;left:15px;width:20;height:'.round($factor*$sum).'px;border:'.$border.'px solid black;">'." \n";
 	#dataset
 	$i=0;
 	foreach($array as $key=>$value){
@@ -343,20 +360,26 @@ function drawXAxisLabel($label,$xmax,$ymax){
 	return $AxisObject;
 }
 ?>
+<table>
+<tr><td width=300>
 <h2>Next Hour</h2>
 <?php
 drawGraph($minutes_array,$minutes_labels,"Minutes");
 ?>
-<br>
+</td>
+<td>
 <h2>Next 24 Hours</h2>
 <?php
 drawGraph($hours_array,$hours_labels,"Hours");
 ?>
-<h2>Everything</h2>
+</td></tr>
+<tr><td colspan="2">
+<h2>Next 24 days</h2>
 <?php
 drawGraph($days_array,$days_labels,"Days");
 ?>
-
+</td></tr>
+</table>
 <br>
 
 
@@ -366,14 +389,18 @@ drawGraph($days_array,$days_labels,"Days");
 $filtered_data=file_get_contents("tmp/full_list.txt");
 $filename = "tmp/full_list.txt";
 $fp = fopen($filename, "r");
-#$filtered_data="Course title|level|text 1|text2|ask next in|ask next date (seconds)|asked last date (seconds)|current interval (days) \n";
-$filtered_data="Course title|level|text 1|text2|ask next in \n";
+$filtered_data="Course title|level|text 1|text2|ask next date |asked last date|current interval (days) \n";
+#$filtered_data="Course title|level|text 1|text2|ask next in \n";
 while (($line = fgets($fp, 4096)) !== false){
 	$line_array=explode("|",$line);
-	$ignore=$line_array[4];
+	$ignore=$line_array[5];
+	$askedlastdate=$line_array[6];
+	if($askedlastdate!=="unknown"){
+	$askedlastdate=date("D, d M Y H:i", $line_array[6]);	
+	}
 	if($ignore!="Ignored"){
-#		$filtered_data.=$line;
-		$filtered_data.=$line_array[0]."|".$line_array[1]."|".$line_array[2]."|".$line_array[3]."|".$line_array[4]." \n";
+#		$filtered_data.=$line;		
+		$filtered_data.=$line_array[0]."|".$line_array[1]."|".$line_array[2]."|".$line_array[3]."|".date("D, d M Y H:i", $line_array[5])."|".$askedlastdate."|".$line_array[7];
 	}
 }
 fclose($fp);

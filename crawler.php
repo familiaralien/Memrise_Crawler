@@ -10,6 +10,14 @@ var t = today.getTime() / 1000 - today.getTimezoneOffset()*60;
 <body onload="document.myform.clienttime.value=t;">
 <?php
 #get lastrun date #TODO
+#TODO use file age to determine which levels to load; if fileage<1day only reload levels that have asknext <=fileage but not "now"
+#faster load; depending on file age;
+#remove use of files if unnecessary
+#graph intervals;
+#estimate intervals put as "more than " TIME;
+#center and font;
+#check out graphing gap at one day (artefact, coincidence, bug?);
+#output graph with dates may remedy above problem;
 
 if (!isset($_POST["clienttime"])){	
 	echo '<form name="myform" action="crawler.php" method="post">'." \n";
@@ -46,7 +54,6 @@ else{
 		#loading home page
 		outputProgress("<i>Be patient. The next few steps might take a while!</i>");
 		loadpage("http://www.memrise.com/home/","tempfile.html");
-		outputProgress("Data source: ".$datasource);
 
 		#loading local data if it exists
 		#similar code in stats.php
@@ -61,7 +68,7 @@ else{
 				$updatefile=FALSE;
 				while (($line = fgets($fp, 4096)) !== false){
 					$fields = array ('course', 'level','text1','text2','ask_next','asknextdate','askedlast','interval');
-					#checking if old file format; new fields missing; add them;
+					#checking if old file format; if new fields missing add them;
 					if(count(explode("|",$line))==5){
 						$updatefile=TRUE;
 						$line=trim($line);
@@ -92,9 +99,6 @@ else{
 			file_put_contents($file, "");
 			$local_file_exists=false;
 		}
-		
-		#getting the local courselist; if it doesn't exist, get remote courselist;
-		#$courselist = array_unique($courses);
 		
 		#extract course names and links
 		#loop through courses and levels & collect information
@@ -142,7 +146,7 @@ function myFlush(){
 }
 
 function findcourses(){
-	global $entry, $theTime, $datasource, $local_file_exists; #$courselist, 
+	global $entry, $theTime, $datasource, $local_file_exists; #$courselist;
 	$html=getWhitebox();
 	$point1='<div class="course-box-wrapper">';
 	$html=explode($point1,$html);
@@ -167,24 +171,30 @@ function findcourses(){
 		$progress=explode('"',$progress[0]);
 		$progress=$progress[1];
 		if(courseStarted($progress)==1){
-			$max1=getLevels($href)*1;
+			$levelarray=getCompletedLevels($href);
+			$max1=sizeof($levelarray);
 			outputProgress('Collecting data from '.$max1.' levels of <b>"'.$title.'"</b>');
+			
+			#$max1=getLevels($href)*1;
+			#outputProgress('Collecting data from '.$max1.' levels of <b>"'.$title.'"</b>');
 			
 			#check local file. If smallest asknext >=24h use local file; generate list of levels to check locally
 			unset($useremote);
 			unset($line);
 			$useremote=array();
 	
+			#TODO use file age to determine which levels to load; if fileage<1day only reload levels that have asknext <=fileage but not "now" (this is wrong; nows need to be loaded to check if they've been asked!!)
+			#useremote if:
+			#
+			
 			if($local_file_exists){
-				foreach($entry as $line){ #ERROR: no entry if no local file
+				foreach($entry as $line){
 					if($line['course']==$title){
 						if(!isset($useremote[$line['level']])){
 							$useremote[$line['level']]=0;
 						}
-						if($line['asknextdate']!="Ignored"){
-							if(($line['asknextdate']-$theTime)<(24*3600)){
-								$useremote[$line['level']]++;
-							}
+						if($line['asknextdate']!="Ignored" && ($line['asknextdate']-$theTime)<(24*3600)){ #maybe adjust this limit
+							$useremote[$line['level']]++;
 						}
 					}
 				}
@@ -192,23 +202,40 @@ function findcourses(){
 			reset($useremote);
 
 			#run through level pages and collect data
-			for($j=1;$j<=$max1;$j++){				
+			#for($j=1;$j<=$max1;$j++){
+			for($j=0;$j<$max1;$j++){
+			
 				#load local level pages
-				if(!$local_file_exists){$useremote[$j]=1;} # if no local file exists create "1" value to force remote collection
-				if(!isset($useremote[$j])){$useremote[$j]=0;} #create null value for empty levels (i.e. the pinyin explanation levels without words in Chinese courses)
-				if($datasource=="remote"){$useremote[$j]=1;}
-				if($useremote[$j]<1){
-					outputProgress("<font color='blue'>".$j."</font>, ", FALSE);
-					$levellist=getLocalCharList($title,$j);
+				#if(!$local_file_exists){$useremote[$j]=1;} # if no local file exists create "1" value to force remote collection
+				#if(!isset($useremote[$j])){$useremote[$j]=0;} #create null value for empty levels (i.e. the pinyin explanation levels without words in Chinese courses)
+				#if($datasource=="remote"){$useremote[$j]=1;}
+				#if($useremote[$j]<1){
+
+				if(!$local_file_exists){$useremote[$levelarray[$j]]=1;} # if no local file exists create "1" value to force remote collection
+				if(!isset($useremote[$levelarray[$j]])){$useremote[$levelarray[$j]]=0;} #create null value for empty levels (i.e. the pinyin explanation levels without words in Chinese courses)
+				if($datasource=="remote"){$useremote[$levelarray[$j]]=1;}
+				if($useremote[$levelarray[$j]]<1){
+
+
+					#outputProgress("<font color='blue'>".$j."</font>, ", FALSE);
+					#$levellist=getLocalCharList($title,$j);
+					outputProgress("<font color='blue'>".$levelarray[$j]."</font>, ", FALSE);
+					$levellist=getLocalCharList($title,$levelarray[$j]);
 					usleep(10000); #sleeping 0.01 seconds
 				}
 				#load remote level pages
 				else{
-					$levelpage=$href.$j."/";
+					#$levelpage=$href.$j."/";
+					$levelpage=$href.$levelarray[$j]."/";
+					
 					$tmplevel="tmp/tmplevel.txt";
 					loadpage($levelpage,$tmplevel);
-					outputProgress($j.", ", FALSE);
-					$levellist=getCharList($tmplevel,$title,$j);					
+					#outputProgress($j.", ", FALSE);
+					outputProgress($levelarray[$j].", ", FALSE);
+					
+					#$levellist=getCharList($tmplevel,$title,$j);
+					$levellist=getCharList($tmplevel,$title,$levelarray[$j]);
+					
 					usleep(10000); #sleeping 0.01 seconds
 				}
 				if(trim($levellist).""!=""){
@@ -219,8 +246,9 @@ function findcourses(){
 		}
 		else{	
 			outputProgress("No data to collect from <b>".$title."</b> (not yet started)");		
-		}		
-	}	
+		}
+		
+	}
 }
 
 function mergeFiles(){ #merging the files so that the script can remember when an item was last asked; old and new data are needed for this
@@ -266,27 +294,66 @@ function mergeFiles(){ #merging the files so that the script can remember when a
 	#write $entry array into file1;
 	$file="tmp/full_list.txt";
 	file_put_contents($file, "");	
-	foreach($entry as $line){ # errors
+	foreach($entry as $line){
 		file_put_contents($file, $line, FILE_APPEND | LOCK_EX);
 	}
 }
 
 function mergeLines($L1, $L2){
-	#new file line becomes line2 with asknextdate of line1 is put as askedlastdate in line2
+	global $theTime;
+	#L2: remotely collected data
+	#L1: data from local file
 	$L1A=explode("|",$L1);
 	$L2A=explode("|",$L2);
-	$ML=$L2A[0]."|".$L2A[1]."|".$L2A[2]."|".$L2A[3]."|".$L2A[4]."|".$L2A[5]."|".$L1A[5]."|".$L2A[7];
+	#[0]'course'
+	#[1]'level'
+	#[2]'text1'
+	#[3]'text2'
+	#[4]'ask_next'
+	#[5]'asknextdate'
+	#[6]'askedlast'
+	#[7]'interval'	
+	
+	$asknextdate=$L2A[5]; #set asknextdate to remotely collected value
+	if($L1A[5]<=$theTime){ #set askedlastdate (if asknextdate is <=now set to now; otherwise set to local value of askedlastdate)
+		$askedlastdate=$theTime;
+	}
+	else{
+		$askedlastdate=$L1A[6]; #this could also have "unknown" as a value;
+	}
+	
+	if($askedlastdate!=="unknown" && $askedlastdate<$L1A[5]){ #only calculate a new interval if the new askedlastdate is before the new asknextdate
+		$interval=timeToText($asknextdate-$askedlastdate);
+	}
+	else{ #if askedlast is unknown or >$L1A[5]
+		if($askedlastdate=="unknown"){
+			$interval="unknown";
+		}
+		else{
+			$interval=trim($L1A[7]);
+		}
+	}
+		
+	#not sure how this happens, but catch interval set to 0;
+	if($interval.""=="0"){
+		$debugtext="L1|".$L1A[0]."|".$L1A[1]."|".$L1A[2]."|".$L1A[3]."|".$L1A[4]."|".$L1A[5]."|".$L1A[6]."|".$L1A[7]." \n";
+		$debugtext.="L2|".$L2A[0]."|".$L2A[1]."|".$L2A[2]."|".$L2A[3]."|".$L2A[4]."|".$L2A[5]."|".$L2A[6]."|".$L2A[7]." \n";
+		$debugtext.="asknextdate,askedlastdate,interval|".$asknextdate."|".$askedlastdate."|".$interval." \n";
+		file_put_contents("debug.txt", $debugtext, FILE_APPEND | LOCK_EX);
+		$interval=$L1A[7];
+	}
+	
+	$ML=$L2A[0]."|".$L2A[1]."|".$L2A[2]."|".$L2A[3]."|expired|".$asknextdate."|".$askedlastdate."|".$interval." \n";
 	return $ML;
 }
 
-function getID($line){ # errors
+function getID($line){
 	if($line=="EOF"){ #catching EOF for file1;
 		$IDs="EOF";
 	}
 	else{#find identifiers for current line in both files; identifiers: course, level, text1
-		#file_put_contents("debug.txt", ":: ".$line, FILE_APPEND | LOCK_EX);
-		$IDA=explode("|",$line); #IDs-Array; all the fields in the line
-		$IDs=$IDA[0]."|". $IDA[1]."|".$IDA[2]; #only use the relevant fields; ##TODO what happens to locked texts!? #ERROR HERE for run #1
+		$IDA=explode("|",$line); #IDA = IDs-Array; all the fields in the line
+		$IDs=$IDA[0]."|". $IDA[1]."|".$IDA[2]; #only use the relevant fields; ##TODO what happens to locked texts!?
 	}
 	return $IDs;
 }
@@ -308,7 +375,34 @@ function courseStarted($progressreport){
 	}
 	return $started;
 }
-function getLevels($href){
+
+
+function getCompletedLevels($href){
+	global $_COOKIE;
+	#get courselevelpage
+	loadpage($href,"tmp/courselevels.txt");
+	$html=file_get_contents("tmp/courselevels.txt");
+	$array1=explode('<div class="level-index">',$html);
+	$i=0;
+	$levelarray=array();
+	foreach($array1 as $level){
+		if($i>0){
+			$array2=explode("</div>",$level);
+			$levelnum=$array2[0];
+			$array3=explode('<div class="level-icon">',$level);
+			if(strstr($array3[1],'<span class="ico ico-complete ico-correct ico-m ico-green">').""!=""){$complete=true;}
+			else{$complete=false;}
+			if($complete){
+				array_push($levelarray, $levelnum);
+			}
+		}
+		$i++;
+	}
+	return $levelarray;
+}
+
+/**
+function getLevels($href){ #TODO this is probably the spot to fix the bug of not catching non-contiguous levels
 	global $_COOKIE;
 	#get courselevelpage
 	loadpage($href,"tmp/courselevels.txt");
@@ -323,16 +417,16 @@ function getLevels($href){
 	$items2=sizeof($items2);
 	$max=$items2-1;
 	$completed=$items2-$items1;
-	#return "[".$completed."|".$max."]";
 	return $completed;
 }
+**/
 
 function getCharList($charlistfile, $course, $level){
 	$point1='data-thing-id';
 	$html=file_get_contents($charlistfile);
 	$html=explode($point1,$html);
 	$i=1;
-	$list="";		
+	$list="";
 	for($i=1;$i<sizeof($html);$i++){
 		$line=$course."|".$level."|".getItems($html[$i]);
 		$list.=$line;
@@ -340,20 +434,40 @@ function getCharList($charlistfile, $course, $level){
 	return $list;
 }
 
-function getLocalCharList($course,$level){
-	global $entry;
+function getLocalCharList($course,$level){ #TODO make sure to get the right values for asknextlastinterval
+	global $entry, $theTime;
 	$list="";
 	foreach ($entry as $line){
 		if($line['course']==$course && $line['level']==$level){
+			if($line['ask_next']!=="Ignored"){
+				$line['ask_next']="expired";
+				if($line['asknextdate']<$theTime){ #this sets the "askedlastdate" to the current date, if "asknext" is "now" or in the past
+					$line['asknextdate']=$theTime;
+					$line['askedlast']=$theTime;
+				}
+				else{
+					#if the asknext is in the future, keep the previous "askedlast"
+					#no values need to change for this because 'asknextdate' should already be set to the future date and is
+				}
+			
+				if($line['askedlast']!=="unknown"){
+					$line['interval']=timeToText($line['asknextdate']-$line['askedlast'])." \n";
+				}
+				else{
+					$line['interval']="unknown \n";
+				}
+			}
+			
 			$list.=implode("|",$line);
 		}
 	}
 	return $list;
 }
 
+
 function getItems($string){
 	global $theTime;
-	//make this work if text1 is locked or empty
+	//making this work if text1 is locked or empty
 	$search1='<div class="text"></div>';
 	$replace1='<div class="text">[no text]</div>';
 	$search2='<span class="ico ico-grey ico-lock"></span>';
@@ -508,22 +622,50 @@ function getCookieName($input){
 }
 
 function asknextToFields($ref_time,$str){
+	global $theTime;
 	$asknextdate=getSeconds($ref_time, $str);
-	$askedlast="unknown"; #TODO use asknext from file
-	$interval="unknown"; #TODO asknext-askedlast, if interval >1day use, otherwise keep previous interval
+	if($str=="now"){
+		$askedlast=$theTime;
+		$interval=timeToText($asknextdate-$askedlast);
+	}
+	else{
+		$askedlast="unknown";
+		$interval="unknown"; 
+	}
 	return $asknextdate."|".$askedlast."|".$interval." \n";
 }
 
 function getSeconds($ref_time,$str){
 	$seconds=$ref_time;
-	#similar code in stats.php
-#	if(strpos($str,"now").""=="0"){$seconds+=0;}
-	if(strpos($str,"now")!=FALSE){$seconds+=0;}
-	if(strpos($str,"minute")!=FALSE){$seconds+=getNumber($str,"a minute")*60;}
-	if(strpos($str,"hour")!=FALSE){$seconds+=getNumber($str,"an hour")*3600;}
-	if(strpos($str,"day")!=FALSE){$seconds+=getNumber($str,"a day")*3600*24;}
+	if(strstr($str,"now").""!=""){$seconds+=0;}
+	elseif(strstr($str,"minute").""!=""){$seconds+=getNumber($str,"a minute")*60;}
+	elseif(strstr($str,"hour").""!=""){$seconds+=getNumber($str,"an hour")*3600;}
+	elseif(strstr($str,"day").""!=""){$seconds+=getNumber($str,"a day")*3600*24;}
 	else{$seconds="Ignored";}
 	return $seconds;	
+}
+
+function timeToText($seconds){
+	if($seconds/60<=1){ #1 minute or less
+		$timestr="now";
+		$num=1;
+	}
+	elseif($seconds/3600<1&& $seconds>60){ #minutes (more than one minute less than 60 minutes)
+		$num=round($seconds/60);
+		$timestr=$num." minute";
+	}
+	elseif($seconds/86400<1&&$seconds/3600>=1){ #hours (more than one hour less than 24 hours)
+		$num=round($seconds/3600);
+		$timestr=$num." hour";
+	}
+	else{ #days
+		$num=round($seconds/86400);
+		$timestr=$num." day";
+	}
+	if($num>1){	#adding "s" for plural;
+		$timestr.="s";
+	}
+	return $timestr;
 }
 
 function getTZdiff(){
