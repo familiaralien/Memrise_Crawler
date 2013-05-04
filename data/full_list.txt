@@ -1,0 +1,2214 @@
+Chinese words by spoken frequency 0 - 1000|1|belonging (grammatical particle)|的|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|I (also: me)|我|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|you|你|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|to be|是|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|past tense|了|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|to understand|了|expired|1371941637.876|1367708037.876|49 days 
+Chinese words by spoken frequency 0 - 1000|1|not|不|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|located|在|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|he|他|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|we|我们|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|well, good|好|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|to have|有|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|this|这|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|only then|就|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|1|to know how to|会|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|de5|的|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|wo3|我|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|ni3|你|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|shi4|是|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|le5|了|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|liao3|了|expired|1371855237.876|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|2|bu4|不|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|zai4|在|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|ta1|他|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|wo3 men5|我们|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|hao3|好|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|you3|有|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|zhe4|这|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|jiu4|就|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|2|hui4|会|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|question mark (used at the end of a sentence to denote a question)|吗|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|to want|要|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|what?|什么|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|3|to speak|说|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|she|她|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|to think|想|expired|1367724242.243|1367708037.876|5 hours 
+Chinese words by spoken frequency 0 - 1000|3|one|一|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|very|很|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|to know|知道|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|3|man, person|人|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|bar|吧|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|that|那|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|to come|来|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|all|都|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|3|measure word|个|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|ma5|吗|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|yao4|要|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|shen2 me5|什么|expired|1367724242.243|1367708037.876|5 hours 
+Chinese words by spoken frequency 0 - 1000|4|shuo1|说|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|ta1|她|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|xiang3|想|expired|1368228242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|yi1|一|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|hen3|很|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|zhi1 dao4|知道|expired|1367724242.243|1367708037.876|5 hours 
+Chinese words by spoken frequency 0 - 1000|4|ren2|人|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|ba1|吧|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|na4|那|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|lai2|来|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|dou1, du1|都|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|4|ge4|个|expired|1369351442.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|to be able|能|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|to go|去|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|negative|没|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|5|and|和|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|they|他们|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|to arrive|到|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|5|against, correct|对|expired|1367753042.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|also|也|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|5|ah!|啊|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|5|still|还|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|5|to grasp|把|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|5|to allow|让|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|5|to do|做|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|5|to give|给|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|5|one|一个|expired|1371857042.243|1367708037.876|48 days 
+Chinese words by spoken frequency 0 - 1000|6|neng2|能|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|qu4|去|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|mei2|没|expired|1367724242.243|1367708037.876|5 hours 
+Chinese words by spoken frequency 0 - 1000|6|he2|和|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|ta1 men5|他们|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|dao4|到|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|6|dui4|对|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|6|ye3|也|expired|1367753042.243|1367708037.876|13 hours 
+Chinese words by spoken frequency 0 - 1000|6|a1; a5|啊|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|hai2|还|expired|1367724242.243|1367708037.876|5 hours 
+Chinese words by spoken frequency 0 - 1000|6|ba3|把|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|rang4|让|expired|1367753042.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|zuo4|做|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|gei3|给|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|6|yi2 ge4; yi2 ge5|一个|expired|1367753042.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|upon|上|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|you (the plural form)|你们|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|past tense|过|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|to not have|没有|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|must|得|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|to look|看|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|real|真|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|action (in progress)|着|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|business|事|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|this|这个|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|how|怎么|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|now|现在|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|can (also: may)|可以|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|a bit|点|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|7|a particle (a grammatical particle, not a physical one)|呢|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|shang4|上|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|ni3 men5|你们|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|guo4|过|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|mei2 you3|没有|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|dei3|得|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|kan4|看|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|zhen1|真|expired|1367969042.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|zhe5|着|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|shi4|事|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|zhe4 ge5|这个|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|zen3 me5|怎么|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|xian4 zai4|现在|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|ke3 yi3; ke2 yi3|可以|expired|1367882642.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|dian3|点|expired|1367796242.243|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|8|ne5|呢|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|if|如果|expired|1368140037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|only|只|expired|1369781637.876|1367708037.876|24 days 
+Chinese words by spoken frequency 0 - 1000|9|to separate|别|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|oh|哦|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|but|但|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|by (indicates passive-voice sentences or clauses)|被|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|to walk|走|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|extremely|太|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|this kind|这样|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|village (also: in, inside)|里|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|with|跟|expired|1367880837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|to tell|告诉|expired|1369436037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|because|因为|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|self|自己|expired|1368053637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|9|again|再|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|ru2 guo3|如果|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|zhi3|只|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|bie2|别|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|o4|哦|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|dan4|但|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|bei4|被|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|zou3|走|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|tai4|太|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|zhe4 yang4|这样|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|li3|里|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|gen1|跟|expired|1368396022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|gao4 su5|告诉|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|yin1 wei4|因为|expired|1368050422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|zi4 ji3|自己|expired|1367964022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|10|zai4|再|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|to listen|听|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|here|这里|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|fast|快|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|who|谁|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|but|但是|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|many|多|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|push the air out, to use air|用气|expired|1368223222.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|time|时候|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|below|下|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|already|已经|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|thank you|谢谢|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|why?|为什么|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|to feel|觉得|expired|1368396022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|heaven|天|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|11|to look like|像|expired|1368223222.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|ting1|听|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|zhe4 li3; zhe4 li5|这里|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|kuai4|快|expired|1368223222.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|shei2|谁|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|dan4 shi4|但是|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|duo1|多|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|yong4 qi4|用气|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|shi2 hou5; shi2 hou4|时候|expired|1368309622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|xia4|下|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|yi3 jing1|已经|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|xie4 xie5|谢谢|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|wei4 shen2 me5|为什么|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|jue2 de5|觉得|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|tian1|天|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|12|xiang4|像|expired|1368136822.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|like this|这么|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|it|它|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|following, from|从|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|Mr.|先生|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|to look for|找|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|most, superlative|最|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|to like|喜欢|expired|1368223222.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|can|可|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|for the sake of|为|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|big|大|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|possibly|可能|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|to need|需要|expired|1369260022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|yes|是的|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|to die|死|expired|1368482422.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|13|measure word for actions|次|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|zhe4 me5|这么|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|ta1|它|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|cong2|从|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|xian1 sheng1; xian1 sheng5|先生|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|zhao3|找|expired|1369004037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|zui4|最|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|xi3 huan5; xi3 huan1|喜欢|expired|1368572037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|ke3|可|expired|1368485637.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|wei4|为|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|da4|大|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|ke3 neng2|可能|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|xu1 yao4|需要|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|shi4 de5|是的|expired|1368399237.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|14|si3|死|expired|1368312837.876|1367708037.876|7 days 
+Chinese words by spoken frequency 0 - 1000|14|ci4|次|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|to go out|出|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|so|那么|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|dry|干|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|that|那个|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|hey|嘿|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|plural|们|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|speech|话|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|and yet, beard (radical)|而|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|what|么|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|thing|东西|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|child|孩子|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|to stand up (also: to revolt)|起来|expired|1369436037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|ought to|应该|expired|1369004037.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|15|therefore|所以|expired|1368744837.876|1367708037.876|12 days 
+Chinese words by spoken frequency 0 - 1000|15|these|这些|expired|1368744837.876|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|chu1|出|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|na4 me5|那么|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|gan1|干|expired|Ignored|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|na4 ge5|那个|expired|1368828022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|hei1|嘿|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|men5|们|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|hua4|话|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|er2|而|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|me5|么|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|dong1 xi5|东西|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|hai2 zi5|孩子|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|qi3 lai2|起来|expired|1368828022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|ying1 gai1|应该|expired|1368828022.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|suo3 yi3|所以|expired|1368741622.758|unknown|unknown 
+Chinese words by spoken frequency 0 - 1000|16|zhe4 xie1|这些|expired|1368741622.758|unknown|unknown 
+First 500 characters in Mandarin|1|belonging (grammatical particle)|的|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|one|一|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|to be|是|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|not|不|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|man, person|人|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|I (also: me)|我|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|located|在|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|to have|有|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|he|他|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|this|这|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|middle|中|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|big|大|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|to come|来|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|upon|上|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|kingdom|国|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|measure word|个|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|to arrive|到|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|to speak|说|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|plural|们|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|for the sake of|为|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|child|子|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|and|和|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|you|你|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|1|the earth|地|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|1|to go out|出|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|de5|的|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|yi1|一|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|shi4|是|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|bu4|不|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|ren2|人|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|wo3|我|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|zai4|在|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|you3|有|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|ta1|他|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|zhe4|这|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|zhong1|中|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|da4|大|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|lai2|来|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|shang4|上|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|guo2|国|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|ge4|个|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|dao4|到|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|shuo1|说|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|men5|们|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|wei4|为|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|zi3|子|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|he2|和|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|ni3|你|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|3|di4|地|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|3|chu1|出|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|the way|道|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|4|also|也|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|time|时|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|4|year|年|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|4|only then|就|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|that|那|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|to want|要|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|below|下|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|using|以|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|4|to be born|生|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|to know how to|会|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|self|自|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|4|to go|去|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|belonging|之|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|4|past tense|过|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|home|家|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|4|to study|学|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|against, correct|对|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|can|可|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|she|她|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|village (also: in, inside)|里|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|behind|后|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|4|small|小|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|what|么|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|4|heart|心|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|dao4|道|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|ye3|也|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|shi2|时|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|nian2|年|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|jiu4|就|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|na4|那|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|yao4|要|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|xia4|下|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|yi3|以|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|sheng1|生|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|hui4|会|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|zi4|自|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|qu4|去|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|zhi1|之|expired|1371425042.243|unknown|unknown 
+First 500 characters in Mandarin|5|guo4|过|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|jia1|家|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|5|xue2|学|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|dui4|对|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|ke3|可|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|ta1|她|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|li3|里|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|hou4|后|expired|1371511442.243|unknown|unknown 
+First 500 characters in Mandarin|5|xiao3|小|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|me5|么|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|5|xin1|心|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|many|多|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|heaven|天|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|and yet, beard (radical)|而|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|to be able|能|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|well, good|好|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|all|都|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|correct|然|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|sun|日|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|at, with|于|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|to rise|起|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|to perfect|成|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|business|事|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|only|只|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|to do|作|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|to work as|当|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|to think|想|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|pattern|文|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|to lack|无|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|to open|开|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|hand|手|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|6|ten|十|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|to use|用|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|lord|主|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|square|方|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|6|if|如|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|duo1|多|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|tian1|天|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|er2|而|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|neng2|能|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|hao3|好|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|dou1, du1|都|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|ran2|然|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|ri4|日|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|yu2|于|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|7|qi3|起|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|cheng2|成|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|shi4|事|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|zhi3|只|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|zuo4|作|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|dang1|当|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|xiang3|想|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|wen2|文|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|wu2|无|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|kai1|开|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|shou3|手|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|7|shi2|十|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|yong4|用|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|zhu3|主|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|fang1|方|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|7|ru2|如|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|front|前|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|which|所|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|root|本|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|to see|见|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|scripture|经|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|head|头|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|8|face|面|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|public|公|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|the same|同|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|three|三|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|already|已|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|old|老|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|following, from|从|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|to move|动|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|8|a pair|两|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|to know|知|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|people|民|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|appearance|样|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|now|现|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|to divide|分|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|to handle, will be|将|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|outside|外|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|8|but|但|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|body|身|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|8|a few|些|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|9|qian2|前|expired|1367753042.243|unknown|unknown 
+First 500 characters in Mandarin|9|suo3|所|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|ben3|本|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|jian4|见|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|jing1|经|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|tou2|头|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|mian4|面|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|gong1|公|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|tong2|同|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|san1|三|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|yi3|已|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|lao3|老|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|cong2|从|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|dong4|动|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|liang3|两|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|zhi1|知|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|min2|民|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|yang4|样|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|xian4|现|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|fen1|分|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|jiang1|将|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|9|wai4|外|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|9|dan4|但|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|shen1|身|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|9|xie1|些|expired|1367771042.243|unknown|unknown 
+First 500 characters in Mandarin|10|to give; with, and|与|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|tall|高|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|opinion (also: idea)|意|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|to enter|进|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|law|法|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|this|此|expired|1368314642.243|unknown|unknown 
+First 500 characters in Mandarin|10|reality|实|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|to return|回|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|two|二|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|logic|理|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|beautiful|美|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|a bit|点|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|moon, month|月|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|bright|明|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|sound|声|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|complete|全|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|work|工|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|oneself|己|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|speech|话|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|son|儿|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|person who does|者|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|10|direction|向|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|emotion|情|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|department|部|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|10|straight|正|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|yu3|与|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|gao1|高|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|yi4|意|expired|1368660242.243|unknown|unknown 
+First 500 characters in Mandarin|11|jin4|进|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|fa3|法|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|ci3|此|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|shi2|实|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|hui2|回|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|11|er4|二|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|li3|理|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|mei3|美|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|dian3|点|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|yue4|月|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|ming2|明|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|sheng1|声|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|11|quan2|全|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|11|gong1|工|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|ji3|己|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|hua4|话|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|er2|儿|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|zhe3|者|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|11|xiang4|向|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|qing2|情|expired|1367796242.243|unknown|unknown 
+First 500 characters in Mandarin|11|bu4|部|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|11|zheng4|正|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|name|名|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|to decide|定|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|woman|女|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|to ask|问|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|strength|力|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|machine|机|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|to give|给|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|12|to wait for|等|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|small table|几|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|very|很|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|12|industry|业|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|most, superlative|最|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|12|space|间|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|new|新|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|what|什|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|to hit|打|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|convenient|便|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|position|位|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|12|because of|因|expired|1367753042.243|unknown|unknown 
+First 500 characters in Mandarin|12|by (indicates passive-voice sentences or clauses)|被|expired|1367753042.243|unknown|unknown 
+First 500 characters in Mandarin|12|to walk|走|expired|1367753042.243|unknown|unknown 
+First 500 characters in Mandarin|12|electricity|电|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|four|四|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|ordinal number|第|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|12|gate|门|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|ming2|名|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|ding4|定|expired|1368746642.243|unknown|unknown 
+First 500 characters in Mandarin|13|nv3|女|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|wen4|问|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|li4|力|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|ji1|机|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|gei3|给|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|13|deng3|等|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|ji1; ji3|几|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|hen3|很|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|13|ye4|业|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|zui4|最|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|13|jian1|间|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|xin1|新|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|shen2|什|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|da3|打|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|bian4|便|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|wei4|位|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|yin1|因|expired|1367742242.243|unknown|unknown 
+First 500 characters in Mandarin|13|bei4|被|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|zou3|走|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|dian4|电|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|si4|四|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|13|di4|第|expired|1368746642.243|unknown|unknown 
+First 500 characters in Mandarin|13|men2|门|expired|1367753042.243|unknown|unknown 
+First 500 characters in Mandarin|14|to examine|相|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|measure word for actions|次|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|14|east|东|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|14|politics|政|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|14|sea|海|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|mouth|口|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|to cause|使|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|14|to teach|教|expired|1368055442.243|unknown|unknown 
+First 500 characters in Mandarin|14|west|西|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|again|再|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|to weigh|平|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|real|真|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|to listen|听|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|world|世|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|to breathe|气|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|letter, mail|信|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|north|北|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|few|少|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|shut; to concern|关|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|14|to combine|并|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|14|inside|内|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|to increase|加|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|14|to change into (also: to spend)|化|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|14|from|由|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|14|but|却|expired|1368055442.243|unknown|unknown 
+First 500 characters in Mandarin|15|xiang4|相|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|ci4|次|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|dong1|东|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|zheng4|政|expired|1367745842.243|unknown|unknown 
+First 500 characters in Mandarin|15|hai3|海|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|kou3|口|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|shi3|使|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|15|jiao1|教|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|xi1|西|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|zai4|再|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|ping2|平|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|zhen1|真|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|ting1|听|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|shi4|世|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|qi4|气|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|xin4|信|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|bei3|北|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|shao3|少|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|guan1|关|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|bing4|并|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|nei4|内|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|jia1|加|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|15|hua4|化|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|15|you2|由|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|15|que4|却|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|16|generation|代|expired|1369351442.243|unknown|unknown 
+First 500 characters in Mandarin|16|army|军|expired|1367756642.243|unknown|unknown 
+First 500 characters in Mandarin|16|to produce|产|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|16|to enter|入|expired|1368314642.243|unknown|unknown 
+First 500 characters in Mandarin|16|first, previously, to precede|先|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|mountain|山|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|five|五|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|extremely|太|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|water|水|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|ten thousand|万|expired|1368228242.243|unknown|unknown 
+First 500 characters in Mandarin|16|market|市|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|16|eye|眼|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|16|body|体|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|to separate|别|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|place|处|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|16|always|总|expired|1368228242.243|unknown|unknown 
+First 500 characters in Mandarin|16|only just|才|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|16|open space|场|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|16|teacher|师|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|16|book|书|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|to compare|比|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|to live|住|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|16|person|员|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|nine|九|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|16|to laugh|笑|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|17|dai4|代|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|17|jun1|军|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|chan3|产|expired|1368228242.243|unknown|unknown 
+First 500 characters in Mandarin|17|ru4|入|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|17|xian1|先|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|shan1|山|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|wu3|五|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|tai4|太|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|shui3|水|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|wan4|万|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|17|shi4|市|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|yan3|眼|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|17|ti3|体|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|17|bie2|别|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|chu4|处|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|17|zong3|总|expired|1368228242.243|unknown|unknown 
+First 500 characters in Mandarin|17|cai2|才|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|17|chang3|场|expired|1369351442.243|unknown|unknown 
+First 500 characters in Mandarin|17|shi1|师|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|shu1|书|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|bi3|比|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|17|zhu4|住|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|17|yuan2|员|expired|1367756642.243|unknown|unknown 
+First 500 characters in Mandarin|17|jiu3|九|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|17|xiao4|笑|expired|1368141842.243|unknown|unknown 
+First 500 characters in Mandarin|18|gender; suffix -ness or -ity|性|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|18|through|通|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|18|eye|目|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|18|to announce|报|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|18|to stand|立|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|horse|马|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|an order (also: destiny, life)|命|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|18|to stretch|张|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|18|life|活|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|spirit|神|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|18|maths|数|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|18|correspondence|件|expired|1368314642.243|unknown|unknown 
+First 500 characters in Mandarin|18|peace|安|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|watch; display|表|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|18|origin|原|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|18|car|车|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|white|白|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|to respond|应|expired|1368573842.243|unknown|unknown 
+First 500 characters in Mandarin|18|road|路|expired|1368660242.243|unknown|unknown 
+First 500 characters in Mandarin|18|a period of time|期|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|to call|叫|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|to die|死|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|18|often|常|expired|1367969042.243|unknown|unknown 
+First 500 characters in Mandarin|18|to raise|提|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|18|to sense|感|expired|1368487442.243|unknown|unknown 
+First 500 characters in Mandarin|19|xing4|性|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|tong1|通|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|mu4|目|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|19|bao4|报|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|19|li4|立|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|ma3|马|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|ming4|命|expired|1368573842.243|unknown|unknown 
+First 500 characters in Mandarin|19|zhang1|张|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|huo2|活|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|shen2|神|expired|1368401042.243|unknown|unknown 
+First 500 characters in Mandarin|19|shu4; shu3|数|expired|1368746642.243|unknown|unknown 
+First 500 characters in Mandarin|19|jian4|件|expired|1369265042.243|unknown|unknown 
+First 500 characters in Mandarin|19|an1|安|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|biao3|表|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|yuan2|原|expired|1368746642.243|unknown|unknown 
+First 500 characters in Mandarin|19|che1|车|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|bai2|白|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|ying4|应|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|19|lu4|路|expired|1368660242.243|unknown|unknown 
+First 500 characters in Mandarin|19|qi1|期|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|jiao4|叫|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|si3|死|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|19|chang2|常|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|ti2|提|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|19|gan3|感|expired|1369437842.243|unknown|unknown 
+First 500 characters in Mandarin|20|gold|金|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|what|何|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|20|to rebel|反|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|20|to shut (also: to join)|合|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|to put (also: to release)|放|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|to do|做|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|to count|计|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|perhaps|或|expired|1369351442.243|unknown|unknown 
+First 500 characters in Mandarin|20|to take charge of|司|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|to receive|受|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|lustre; light|光|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|king|王|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|fruit|果|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|relatives (also: parent)|亲|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|world|界|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|to attain|及|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|present|今|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|capital|京|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|20|affair|务|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|to control|制|expired|1367756642.243|unknown|unknown 
+First 500 characters in Mandarin|20|to divide|解|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|20|each|各|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|20|to appoint|任|expired|1369351442.243|unknown|unknown 
+First 500 characters in Mandarin|20|to reach (arrive)|至|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|20|clear|清|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|jin1|金|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|he2|何|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|fan3|反|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|21|he2|合|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|fang4|放|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|zuo4|做|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|ji4|计|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|huo4|或|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|si1|司|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|shou4|受|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|21|guang1|光|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|21|wang2|王|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|guo3|果|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|qin1|亲|expired|1368833042.243|unknown|unknown 
+First 500 characters in Mandarin|21|jie4|界|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|ji2|及|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|21|jin1|今|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|jing1|京|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|21|wu4|务|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|zhi4|制|expired|1367882642.243|unknown|unknown 
+First 500 characters in Mandarin|21|jie3; xie4; jie4|解|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|ge4|各|expired|1369005842.243|unknown|unknown 
+First 500 characters in Mandarin|21|ren4|任|expired|1367709842.243|1367709842.243|unknown 
+First 500 characters in Mandarin|21|zhi4|至|expired|Ignored|unknown|unknown 
+First 500 characters in Mandarin|21|qing1|清|expired|1368833042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|child|子|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|woman|女|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|well (good)|好|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|small|小|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|wrap (radical)|勹|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|thou|尔|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|man (person)|人|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|man (squished to the side)|亻|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|you|你|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|hello|你好|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|horse|马|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|mother|妈|expired|1371333622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|mother|妈妈|expired|1371333622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|work|工|expired|1371333622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|suddenly|乍|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|to do|作|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|work|工作|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|sheep|羊|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|wood (tree radical)|木|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|appearance|样|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|cocoon (radical)|厶|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|crown (radical)|冖|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|drop (radical)|丶|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|to see|见|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |1|to sleep|觉|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|zi3|子|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|nv3|女|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|hao3|好|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|xiao3|小|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|er3|尔|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ren2|人|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ni3|你|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ni3 hao3; ni2 hao3|你好|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ma3|马|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ma1|妈|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|ma1 ma5; ma1 ma1|妈妈|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|gong1|工|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|zha4|乍|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|zuo4|作|expired|1371420022.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|gong1 zuo4|工作|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|yang2|羊|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|mu4|木|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|yang4|样|expired|1371506422.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|mi4|冖|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|jian4|见|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |3|jiao4|觉|expired|1371679222.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|one|一|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|thousand|千|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |4|field|田|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|king|王|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|earth|土|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|village (also: in, inside)|里|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|heavy|重|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|to droop|垂|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|eye|目|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|to sleep|睡|expired|1371425042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|to go to sleep|睡觉|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|two|二|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|hand|手|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|sign|示|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|son|儿|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|dollar|元|expired|1368746642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|roof (radical)|宀|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|end (also: finished, to run out)|完|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |4|heart|心|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|how|怎|expired|1369265042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|what|么|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|how|怎么|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|factory, slope (radical meaning)|厂|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|vast, lean-to (radical)|广|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |4|magic (radical)|卜|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|yi1|一|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|qian1|千|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|tian2|田|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|wang2|王|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|tu3|土|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|li3|里|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|zhong4|重|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |5|chui2|垂|expired|1369437842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|mu4|目|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|shui4|睡|expired|1371684242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|shui4 jiao4|睡觉|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |5|er4|二|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|shou3|手|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|shi4|示|expired|1371684242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|er2|儿|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|yuan2|元|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|wan2|完|expired|1369265042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|xin1|心|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|zen3|怎|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|me5|么|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|zen3 me5|怎么|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|chang3|厂|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|guang3|广|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |5|bu3|卜|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|mouth|口|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|to divine|占|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|shop|店|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|to feel|觉|expired|1371684242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|moreover, a long time (radical)|且|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |6|grain|禾|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|to rent|租|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |6|claw|爪|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|small table|几|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|again, right hand (radical)|又|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|club (also: spear)|殳|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|three dots water (radical)|氵|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|negative|没|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|below|下|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|cloth|巾|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |6|rain|雨|expired|1371684242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|to rain|下雨|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|body|身|expired|1369265042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|chinese inch, thumb (radical)|寸|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|word (squished to the side)|讠|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|to thank|谢|expired|1367882642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|hand (squished to the side)|扌|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|nine|九|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|pellet|丸|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |6|fire|火|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|kou3|口|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|zhan1; zhan4|占|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|dian4|店|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |7|jue2|觉|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|qie3|且|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |7|he2|禾|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|zu1|租|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |7|zhua3; zhao3|爪|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |7|ji1; ji3|几|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|you4|又|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|shu1|殳|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|mei2|没|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|xia4|下|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|jin1|巾|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |7|yu3|雨|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|xia4 yu3|下雨|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|shen1|身|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|cun4|寸|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|xie4|谢|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|jiu3|九|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|wan2|丸|expired|1371511442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |7|huo3|火|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|four dots fire (radical)|灬|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|heat|热|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|clasp; hands joined|廾|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|only just|才|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|located|在|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|and yet, beard (radical)|而|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|face|面|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|behind|后|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|rear|后面|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|lid (radical)|亠|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|capital|京|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|streaks (radical)|彡|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|sun|日|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|shadow|影|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|electricity|电|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|film|电影|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |8|half a kilo, axe (radical)|斤|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|to listen|听|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|ten|十|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|big|大|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|heaven|天|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|few|少|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|dusk|夕|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|many|多|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |8|how much|多少|expired|1371684242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|re4|热|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |9|gong3|廾|expired|1367882642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|cai2|才|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |9|zai4|在|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|er2|而|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|mian4|面|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|hou4|后|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|hou4 mian4|后面|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |9|jing1|京|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|ri4|日|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|ying3|影|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |9|dian4|电|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|dian4 ying3|电影|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |9|jin1|斤|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|ting1|听|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|shi2|十|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|da4|大|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|tian1|天|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|shao3|少|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|xi1|夕|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|duo1|多|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |9|duo1 shao3; duo1 shao5|多少|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|to call|叫|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|name|名|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|upon|上|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|dry|干|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|noon|午|expired|1368228242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|morning|上午|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|sign (squished to the side)|礻|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|to look at|视|expired|1368487442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|television|电视|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|mountain|山|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|to go out|出|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|car|车|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|taxi|出租车|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|arrow|矢|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|basket (radical)|匸|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|mound or city (radical)|阝|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|courtyard|院|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|doctor|医|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|hospital|医院|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|three|三|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|not|不|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|he|他|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |10|moon, month|月|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|first, previously, to precede|先|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |10|to be born|生|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|jiao4|叫|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|ming2|名|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|shang4|上|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|gan1|干|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|wu3|午|expired|1368746642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|shang4 wu3|上午|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|shi4|视|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|dian4 shi4|电视|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|shan1|山|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|chu1|出|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|che1|车|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|chu1 zu1 che1|出租车|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|shi3|矢|expired|1367882642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|yuan4|院|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|yi1|医|expired|1369610642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|yi1 yuan4|医院|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|san1|三|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|bu4|不|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|ta1|他|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |11|yue4|月|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|xian1|先|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |11|sheng1|生|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |12|Mr.|先生|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|also|也|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|jade|玉|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|surround|囗|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|kingdom|国|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|gate|门|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|plural|们|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|dart (also: dagger)|弋|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|lance (also: spear)|戈|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|I (also: me)|我|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|we|我们|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|ladle|匕|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|corpse (radical)|尸|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|nun|尼|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|a particle (a grammatical particle, not a physical one)|呢|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|gown|衣|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|hello|喂|expired|1368741622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|fish hook|乙|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|to breathe|气|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|to stand|立|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|relatives (also: parent)|亲|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|new|新|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|to repeat|重|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|stick (radical)|丨|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |12|again|再|expired|1367877622.758|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|xian1 sheng1; xian1 sheng5|先生|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|ye3|也|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|yu4|玉|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|wei2|囗|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|guo2|国|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|men2|门|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|men5|们|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|yi4|弋|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|ge1|戈|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|wo3|我|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|wo3 men5|我们|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|bi3|匕|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|shi1|尸|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|ni2|尼|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|ne5|呢|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|yi1|衣|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|wei4|喂|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |13|yi3|乙|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|qi4|气|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|li4|立|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|qin1|亲|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|xin1|新|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|chong2|重|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|gun3|丨|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |13|zai4|再|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|coil (radical)|幺|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|silk|糸|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|department|系|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|shut; to concern|关|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|pattern|文|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|path (radical)|辶|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|this|这|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|here|这儿|expired|1368746642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|middle|中|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|noon|中午|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|table|桌|expired|1368228242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|table|桌子|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|yesterday|昨|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |14|yesterday|昨天|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|star|星|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|collectively|共|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|such (refers to something preceding it)|其|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|a period of time|期|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|week|星期|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|to study|学|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|student|学生|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|ice|冫|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|to practice|习|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|to learn|学习|expired|1367969042.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |14|father|父|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|mi4|糸|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xi4|系|expired|1368228242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|guan1|关|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|wen2|文|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhe4|这|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhe4 er5|这儿|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhong1|中|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhong1 wu3|中午|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhuo1|桌|expired|1368228242.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zhuo1 zi5|桌子|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zuo2|昨|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|zuo2 tian1|昨天|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xing1|星|expired|1368314642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|gong4|共|expired|Ignored|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|qi2|其|expired|1368746642.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|qi1|期|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xing1 qi1|星期|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xue2|学|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xue2 sheng5; xue2 sheng1|学生|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|bing1|冫|expired|1368055442.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|xi2|习|expired|1367709842.243|1367709842.243|unknown 
+HSK level 1 - Introductory Mandarin |15|xue2 xi2|学习|expired|1368141842.243|unknown|unknown 
+HSK level 1 - Introductory Mandarin |15|fu4|父|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|woman|女|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|man, person|人|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|child|子|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|king|王|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|well, good|好|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|grass (radical)|艹|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|dart (also: dagger)|弋|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|lance (also: spear)|戈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|horse|马|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|mouth|口|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|present|今|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|question mark (used at the end of a sentence to denote a question)|吗|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|surround|囗|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|sun|日|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|1|man (squished to the side)|亻|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|nv3|女|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|ren2|人|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|zi3|子|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|wang2|王|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|hao3|好|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|yi4|弋|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|ge1|戈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|ma3|马|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|kou3|口|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|jin1|今|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|ma5|吗|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|wei2|囗|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|2|ri4|日|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|drop (radical)|丶|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|wrap (radical)|勹|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|small|小|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|stick (radical)|丨|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|jade|玉|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|I (also: me)|我|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|thou|尔|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|you|你|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|eight|八|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|to stop, toe (radical)|止|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|cocoon (radical)|厶|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|one|一|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|mountain|山|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|dusk|夕|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|3|lid (radical)|亠|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|xiao3|小|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|gun3|丨|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|yu4|玉|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|wo3|我|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|er3|尔|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|ni3|你|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|ba1|八|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|zhi3|止|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|yi1|一|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|shan1|山|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|4|xi1|夕|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|shop|店|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|film|电影|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|to listen|听|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|to rain|下雨|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|five|五|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|television|电视|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|heaven|天|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|ten|十|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|to thank|谢|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|Mr.|先生|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|hand|手|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|morning|上午|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|also|也|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|shadow|影|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|351|wood, tree (radical)|木|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|dian4|店|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|dian4 ying3|电影|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|ting1|听|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|xia4 yu3|下雨|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|wu3|五|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|dian4 shi4|电视|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|tian1|天|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|shi2|十|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|xie4|谢|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|xian1 sheng1; xian1 sheng5|先生|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|shou3|手|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|shang4 wu3|上午|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|ye3|也|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|ying3|影|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|352|mu4|木|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|moon, month|月|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|mother|妈妈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|negative|没|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|to call|叫|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|kingdom|国|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|sign|示|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|how|怎么|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|work|工作|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|to go to sleep|睡觉|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|located|在|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|claw|爪|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|taxi|出租车|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|mother|妈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|to rent|租|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|353|a particle (a grammatical particle, not a physical one)|呢|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|yue4|月|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|ma1 ma5; ma1 ma1|妈妈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|mei2|没|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|jiao4|叫|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|guo2|国|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|shi4|示|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|zen3 me5|怎么|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|gong1 zuo4|工作|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|shui4 jiao4|睡觉|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|zai4|在|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|zhua3; zhao3|爪|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|chu1 zu1 che1|出租车|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|ma1|妈|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|zu1|租|expired|Ignored|unknown|unknown 
+Mandarin Comprehensive|354|ne5|呢|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|woman|女|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|child|子|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|well, good|好|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|king|王|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|man, person|人|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|grass (radical)|艹|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|horse|马|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|sun|日|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|dart (also: dagger)|弋|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|lance (also: spear)|戈|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|mouth|口|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|surround|囗|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|drop (radical)|丶|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|1|wrap (radical)|勹|expired|Ignored|unknown|unknown 
+Mandarin Foundation|1|small|小|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|2|nv3|女|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|zi3|子|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|2|hao3|好|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|2|wang2|王|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|ren2|人|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|2|cao3|艹|expired|1368396022.758|unknown|unknown 
+Mandarin Foundation|2|ma3|马|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|2|ri4|日|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|2|yi4|弋|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|ge1|戈|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|kou3|口|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|wei2|囗|expired|Ignored|unknown|unknown 
+Mandarin Foundation|2|zhu3|丶|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|2|bao1|勹|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|2|xiao3|小|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|3|stick (radical)|丨|expired|Ignored|unknown|unknown 
+Mandarin Foundation|3|man (squished to the side)|亻|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|hand (squished to the side)|扌|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|jade|玉|expired|Ignored|unknown|unknown 
+Mandarin Foundation|3|I (also: me)|我|expired|Ignored|unknown|unknown 
+Mandarin Foundation|3|cocoon (radical)|厶|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|3|eight|八|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|thou|尔|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|you|你|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|to stop, toe (radical)|止|expired|Ignored|unknown|unknown 
+Mandarin Foundation|3|one|一|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|lid (radical)|亠|expired|Ignored|unknown|unknown 
+Mandarin Foundation|3|earth|土|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|scholar|士|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|3|bolt (of fabric)|疋|expired|1369783442.243|unknown|unknown 
+Mandarin Foundation|4|gun3|丨|expired|Ignored|unknown|unknown 
+Mandarin Foundation|4|ren2|亻|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|4|shou3|扌|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|4|yu4|玉|expired|Ignored|unknown|unknown 
+Mandarin Foundation|4|wo3|我|expired|Ignored|unknown|unknown 
+Mandarin Foundation|4|si1|厶|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|4|ba1|八|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|4|er3|尔|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|4|ni3|你|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|4|zhi3|止|expired|Ignored|unknown|unknown 
+Mandarin Foundation|4|yi1|一|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|4|tou2|亠|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|4|tu3|土|expired|1369000822.758|unknown|unknown 
+Mandarin Foundation|4|shi4|士|expired|1368655222.758|unknown|unknown 
+Mandarin Foundation|4|pi3|疋|expired|Ignored|unknown|unknown 
+Mandarin Foundation|5|gate|门|expired|Ignored|unknown|unknown 
+Mandarin Foundation|5|magic (radical)|卜|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|fire|火|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|four dots fire (radical)|灬|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|pattern|文|expired|Ignored|unknown|unknown 
+Mandarin Foundation|5|word (squished to the side)|讠|expired|Ignored|unknown|unknown 
+Mandarin Foundation|5|green|青|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|5|to divine|占|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|a bit|点|expired|Ignored|unknown|unknown 
+Mandarin Foundation|5|nail|丁|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|chinese inch, thumb (radical)|寸|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|seal (radical)|卩|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|two|二|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|step|彳|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|5|stubborn|艮|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|6|men2|门|expired|Ignored|unknown|unknown 
+Mandarin Foundation|6|bu3|卜|expired|1368314642.243|unknown|unknown 
+Mandarin Foundation|6|huo3|火|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|6|huo3|灬|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|6|wen2|文|expired|Ignored|unknown|unknown 
+Mandarin Foundation|6|yan2|讠|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|6|qing1|青|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|6|zhan1; zhan4|占|expired|Ignored|unknown|unknown 
+Mandarin Foundation|6|dian3|点|expired|Ignored|unknown|unknown 
+Mandarin Foundation|6|ding1|丁|expired|1369005842.243|unknown|unknown 
+Mandarin Foundation|6|cun4|寸|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|6|jie2|卩|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|6|er4|二|expired|1368314642.243|unknown|unknown 
+Mandarin Foundation|6|chi4|彳|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|6|gen3|艮|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|7|glass jar (radical)|冂|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|7|lame|尢|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|7|field|田|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|7|strength|力|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|male|男|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|7|white|白|expired|1369000822.758|unknown|unknown 
+Mandarin Foundation|7|from / by|由|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|to be|是|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|very|很|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|upon|上|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|below|下|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|crown (radical)|冖|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|7|ice|冫|expired|Ignored|unknown|unknown 
+Mandarin Foundation|7|cot (radical)|丬|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|7|ladle|匕|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|jiong1|冂|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|wang1|尢|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|8|tian2|田|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|8|li4|力|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|nan2|男|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|8|bai2|白|expired|1368482422.758|unknown|unknown 
+Mandarin Foundation|8|you2|由|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|shi4|是|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|8|hen3|很|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|shang4|上|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|xia4|下|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|mi4|冖|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|8|bing1|冫|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|qiang2|丬|expired|Ignored|unknown|unknown 
+Mandarin Foundation|8|bi3|匕|expired|Ignored|unknown|unknown 
+Mandarin Foundation|9|old|老|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|spoon|勺|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|9|to compare|比|expired|Ignored|unknown|unknown 
+Mandarin Foundation|9|north|北|expired|Ignored|unknown|unknown 
+Mandarin Foundation|9|centre|央|expired|1368314642.243|unknown|unknown 
+Mandarin Foundation|9|archer&#39;s thimble|夬|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|heart|心|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|heart (squished to the side)|忄|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|9|fast|快|expired|Ignored|unknown|unknown 
+Mandarin Foundation|9|to see|见|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|hero|英|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|business|事|expired|Ignored|unknown|unknown 
+Mandarin Foundation|9|small net (radical)|罒|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|belonging (grammatical particle)|的|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|9|half a kilo, axe (radical)|斤|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|10|lao3|老|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|10|shao2|勺|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|10|bi3|比|expired|Ignored|unknown|unknown 
+Mandarin Foundation|10|bei3|北|expired|Ignored|unknown|unknown 
+Mandarin Foundation|10|yang1|央|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|10|guai4|夬|expired|1367964022.758|unknown|unknown 
+Mandarin Foundation|10|xin1|心|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|10|xin1|忄|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|10|kuai4|快|expired|Ignored|unknown|unknown 
+Mandarin Foundation|10|jian4|见|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|10|ying1|英|expired|1368482422.758|unknown|unknown 
+Mandarin Foundation|10|shi4|事|expired|Ignored|unknown|unknown 
+Mandarin Foundation|10|wang3|罒|expired|1368309622.758|unknown|unknown 
+Mandarin Foundation|10|de5|的|expired|1368223222.758|unknown|unknown 
+Mandarin Foundation|10|jin1|斤|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|clan|氏|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|11|bowl|凵|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|public|公|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|11|rice|米|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|push the air out, to use air|用气|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|tongue|舌|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|11|water|水|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|three dots water (radical)|氵|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|nine|九|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|sign (squished to the side)|礻|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|corpse (radical)|尸|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|small table|几|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|middle|中|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|roof (radical)|宀|expired|Ignored|unknown|unknown 
+Mandarin Foundation|11|life|活|expired|1369005842.243|unknown|unknown 
+Mandarin Foundation|12|shi4|氏|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|12|qu1|凵|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|gong1|公|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|12|mi3|米|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|yong4 qi4|用气|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|she2|舌|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|12|shui3|水|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|12|shui3|氵|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|12|jiu3|九|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|shi4|礻|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|12|shi1|尸|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|ji1; ji3|几|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|zhong1|中|expired|Ignored|unknown|unknown 
+Mandarin Foundation|12|mian2|宀|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|12|huo2|活|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|big dog|犬|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|13|extremely|太|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|door (radical)|户|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|13|to reach (arrive)|至|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|to go|去|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|again, right hand (radical)|又|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|path (radical)|辶|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|to study|学|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|seven|七|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|13|factory, slope (radical meaning)|厂|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|to stand|立|expired|Ignored|unknown|unknown 
+Mandarin Foundation|13|Han|汉|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|13|language|语|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|13|past tense|了|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|13|law|法|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|quan3|犬|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|14|tai4|太|expired|Ignored|unknown|unknown 
+Mandarin Foundation|14|hu4|户|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|14|zhi4|至|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|14|qu4|去|expired|Ignored|unknown|unknown 
+Mandarin Foundation|14|you4|又|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|chuo4|辶|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|xue2|学|expired|Ignored|unknown|unknown 
+Mandarin Foundation|14|qi1|七|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|chang3|厂|expired|Ignored|unknown|unknown 
+Mandarin Foundation|14|li4|立|expired|Ignored|unknown|unknown 
+Mandarin Foundation|14|han4|汉|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|14|yu3|语|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|le5|了|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|14|fa3|法|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|15|shut; to concern|关|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|club (also: spear)|殳|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|15|gown|衣|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|gown (squished to the side)|衤|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|15|suffering, hot (in taste, flavor), hard, laborious|辛|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|15|relatives (also: parent)|亲|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|bean, flask (radical)|豆|expired|1368314642.243|unknown|unknown 
+Mandarin Foundation|15|small claws|爫|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|to say|曰|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|grain|禾|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|15|son|儿|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|15|foot|足|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|15|to walk|走|expired|Ignored|unknown|unknown 
+Mandarin Foundation|15|location|址|expired|1367745842.243|unknown|unknown 
+Mandarin Foundation|15|knock (radical)|攵|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|16|guan1|关|expired|Ignored|unknown|unknown 
+Mandarin Foundation|16|shu1|殳|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|16|yi1|衣|expired|Ignored|unknown|unknown 
+Mandarin Foundation|16|yi1|衤|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|16|xin1|辛|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|16|qin1|亲|expired|Ignored|unknown|unknown 
+Mandarin Foundation|16|dou4|豆|expired|1368314642.243|unknown|unknown 
+Mandarin Foundation|16|zhua3|爫|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|16|yue1|曰|expired|1367720642.243|unknown|unknown 
+Mandarin Foundation|16|he2|禾|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|16|er2|儿|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|16|zu2|足|expired|1368487442.243|unknown|unknown 
+Mandarin Foundation|16|zou3|走|expired|Ignored|unknown|unknown 
+Mandarin Foundation|16|zhi3|址|expired|1368833042.243|unknown|unknown 
+Mandarin Foundation|16|bu1|攵|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|17|to pick|采|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|17|fish|鱼|expired|1368487442.243|unknown|unknown 
+Mandarin Foundation|17|tone|音|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|17|fragrant|香|expired|Ignored|unknown|unknown 
+Mandarin Foundation|17|collectively|共|expired|Ignored|unknown|unknown 
+Mandarin Foundation|17|the old days|昔|expired|Ignored|unknown|unknown 
+Mandarin Foundation|17|wild boar|亥|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|17|good|良|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|17|food|食|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|17|food (squished to the side)|饣|expired|Ignored|unknown|unknown 
+Mandarin Foundation|17|tall|高|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|17|light|亮|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|17|root|本|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|17|fish hook|乙|expired|Ignored|unknown|unknown 
+Mandarin Foundation|17|bow|弓|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|18|cai3|采|expired|Ignored|unknown|unknown 
+Mandarin Foundation|18|yu2|鱼|expired|Ignored|unknown|unknown 
+Mandarin Foundation|18|yin1|音|expired|1369783442.243|unknown|unknown 
+Mandarin Foundation|18|xiang1|香|expired|1367796242.243|unknown|unknown 
+Mandarin Foundation|18|gong4|共|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|18|xi1|昔|expired|Ignored|unknown|unknown 
+Mandarin Foundation|18|hai4|亥|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|18|liang2|良|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|18|shi2|食|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|18|shi2|饣|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|18|gao1|高|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|18|liang4|亮|expired|1367796242.243|unknown|unknown 
+Mandarin Foundation|18|ben3|本|expired|1368401042.243|unknown|unknown 
+Mandarin Foundation|18|yi3|乙|expired|Ignored|unknown|unknown 
+Mandarin Foundation|18|gong1|弓|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|19|younger brother|弟|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|19|coil (radical)|幺|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|silk|糸|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|silk (squished to the side)|纟|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|19|for the sake of|为|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|to manage|办|expired|1367796242.243|unknown|unknown 
+Mandarin Foundation|19|side|边|expired|1367796242.243|unknown|unknown 
+Mandarin Foundation|19|father|父|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|to look forward to|巴|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|19|to be born|生|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|one hundred million (also: to calculate)|亿|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|19|to recall|忆|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|19|she|她|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|19|plural|们|expired|Ignored|unknown|unknown 
+Mandarin Foundation|19|tired|累|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|20|di4|弟|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|20|yao1|幺|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|20|mi4|糸|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|20|si1|纟|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|20|wei4|为|expired|Ignored|unknown|unknown 
+Mandarin Foundation|20|ban4|办|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|20|bian1|边|expired|1368228242.243|unknown|unknown 
+Mandarin Foundation|20|fu4|父|expired|Ignored|unknown|unknown 
+Mandarin Foundation|20|ba1|巴|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|20|sheng1|生|expired|Ignored|unknown|unknown 
+Mandarin Foundation|20|yi4|亿|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|20|yi4|忆|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|20|ta1|她|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|20|men5|们|expired|Ignored|unknown|unknown 
+Mandarin Foundation|20|lei4|累|expired|1368660242.243|unknown|unknown 
+Mandarin Foundation|21|dove|隹|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|21|bamboo|竹|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|21|dry|干|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|arrow|矢|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|eye|目|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|self|自|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|eye|眼|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|eyeball|睛|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|21|who|谁|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|to laugh|笑|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|halberd (radical)|戊|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|21|to perfect|成|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|city walls|城|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|21|don&#39;t|勿|expired|Ignored|unknown|unknown 
+Mandarin Foundation|21|valley|谷|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|22|zhui1|隹|expired|1367745842.243|unknown|unknown 
+Mandarin Foundation|22|zhu2|竹|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|22|gan1|干|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|shi3|矢|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|mu4|目|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|zi4|自|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|yan3|眼|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|jing1|睛|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|22|shei2|谁|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|xiao4|笑|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|wu4|戊|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|22|cheng2|成|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|cheng2|城|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|22|wu4|勿|expired|Ignored|unknown|unknown 
+Mandarin Foundation|22|gu3|谷|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|23|to drink|喝|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|23|what|么|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|to have|有|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|to lack|无|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|lord|主|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|to live|住|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|car|车|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|to follow|夂|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|husband|夫|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|23|to fail|失|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|23|you (polite)|您|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|23|basket (radical)|匸|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|to die|亡|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|23|dollar|元|expired|Ignored|unknown|unknown 
+Mandarin Foundation|23|mound or city (radical)|阝|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|he1|喝|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|24|me5|么|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|you3|有|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|wu2|无|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|zhu3|主|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|zhu4|住|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|che1|车|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|zhi3|夂|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|fu1|夫|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|24|shi1|失|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|nin2|您|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|24|xi4|匸|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|wang2|亡|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|24|yuan2|元|expired|Ignored|unknown|unknown 
+Mandarin Foundation|24|fu4|阝|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|can|可|expired|Ignored|unknown|unknown 
+Mandarin Foundation|25|happiness|乐|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|fur|毛|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|certainly|必|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|ah!|啊|expired|Ignored|unknown|unknown 
+Mandarin Foundation|25|to be far away|远|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|courtyard|院|expired|Ignored|unknown|unknown 
+Mandarin Foundation|25|park|园|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|present|今|expired|Ignored|unknown|unknown 
+Mandarin Foundation|25|long|长|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|yawn|欠|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|to announce|报|expired|Ignored|unknown|unknown 
+Mandarin Foundation|25|brush|笔|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|to play|玩|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|25|to trade|商|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|ke3|可|expired|Ignored|unknown|unknown 
+Mandarin Foundation|26|le4|乐|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|26|mao2|毛|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|bi4|必|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|a1; a5|啊|expired|Ignored|unknown|unknown 
+Mandarin Foundation|26|yuan3|远|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|yuan4|院|expired|Ignored|unknown|unknown 
+Mandarin Foundation|26|yuan2|园|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|jin1|今|expired|Ignored|unknown|unknown 
+Mandarin Foundation|26|chang2; zhang3; zhang1|长|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|qian4|欠|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|bao4|报|expired|Ignored|unknown|unknown 
+Mandarin Foundation|26|bi3|笔|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|26|wan2|玩|expired|1368746642.243|unknown|unknown 
+Mandarin Foundation|26|shang1|商|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|gold|金|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|gold (squished to the side)|钅|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|knife|刀|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|small knife (radical)|刂|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|mountain|山|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|fetus|巳|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|ridge|冈|expired|1367745842.243|unknown|unknown 
+Mandarin Foundation|27|to divide|分|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|dish|皿|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|dusk|夕|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|chip, evil|歹|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|even more|更|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|history|史|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|27|west|西|expired|Ignored|unknown|unknown 
+Mandarin Foundation|27|and yet, beard (radical)|而|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|jin1|金|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|jin1|钅|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|dao1|刀|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|dao1|刂|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|shan1|山|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|si4|巳|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|gang1|冈|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|fen1|分|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|min3|皿|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|xi1|夕|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|dai3|歹|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|geng4|更|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|shi3|史|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|28|xi1|西|expired|Ignored|unknown|unknown 
+Mandarin Foundation|28|er2|而|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|book|书|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|convenient|便|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|village (also: in, inside)|里|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|outside|外|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|to look|看|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|expensive|贵|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|29|to want|要|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|table|桌|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|sentence|句|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|29|small dog (radical)|犭|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|dog|狗|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|29|cat|猫|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|29|moreover, a long time (radical)|且|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|streaks (radical)|彡|expired|Ignored|unknown|unknown 
+Mandarin Foundation|29|square|方|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|shu1|书|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|bian4|便|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|li3|里|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|wai4|外|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|kan4|看|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|gui4|贵|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|30|yao4|要|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|zhuo1|桌|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|ju4|句|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|30|quan3|犭|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|gou3|狗|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|30|mao1|猫|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|30|qie3|且|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|xu1|彡|expired|Ignored|unknown|unknown 
+Mandarin Foundation|30|fang1|方|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|only just|才|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|slice|片|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|to beg|乞|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|friend|友|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|suddenly|乍|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|clasp; hands joined|廾|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|ear|耳|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|swine|豕|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|a government official|官|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|boat|舟|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|work|工|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|pig&#39;s head (radical)|彐|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|31|world|世|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|female elder, mother|母|expired|Ignored|unknown|unknown 
+Mandarin Foundation|31|east|东|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|cai2|才|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|pian4|片|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|qi3|乞|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|you3|友|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|zha4|乍|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|gong3|廾|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|er3|耳|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|shi3|豕|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|guan1|官|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|zhou1|舟|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|gong1|工|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|ji4|彐|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|32|shi4|世|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|mu3|母|expired|Ignored|unknown|unknown 
+Mandarin Foundation|32|dong1|东|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|left|左|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|right|右|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|cow|牛|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|such (refers to something preceding it)|其|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|peck|斗|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|industry|业|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|to attain|及|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|tooth|牙|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|cowhide|革|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|to be happy|兴|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|bow-string|弗|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|33|bundle|束|expired|1367745842.243|unknown|unknown 
+Mandarin Foundation|33|sheep|羊|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|few|少|expired|Ignored|unknown|unknown 
+Mandarin Foundation|33|region|区|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|34|zuo3|左|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|34|you4|右|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|34|niu2|牛|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|qi2|其|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|dou3; dou4|斗|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|34|ye4|业|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|ji2|及|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|ya2|牙|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|34|ge2|革|expired|1367745842.243|unknown|unknown 
+Mandarin Foundation|34|xing4; xing1|兴|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|34|fu2|弗|expired|1367796242.243|unknown|unknown 
+Mandarin Foundation|34|shu4|束|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|34|yang2|羊|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|shao3|少|expired|Ignored|unknown|unknown 
+Mandarin Foundation|34|qu1|区|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|river|川|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|spring|春|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|also (also: armpit)|亦|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|sick (radical)|疒|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|bug|虫|expired|Ignored|unknown|unknown 
+Mandarin Foundation|35|sweet|甘|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|to march (radical)|廴|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|to walk off|韦|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|wings|羽|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|wrong|非|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|skin|皮|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|lustre; light|光|expired|Ignored|unknown|unknown 
+Mandarin Foundation|35|black|黑|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|to write|写|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|35|to fly|飞|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|chuan1|川|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|chun1|春|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|yi4|亦|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|36|ne4|疒|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|chong2|虫|expired|Ignored|unknown|unknown 
+Mandarin Foundation|36|gan1|甘|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|yin2|廴|expired|1367749442.243|unknown|unknown 
+Mandarin Foundation|36|wei2|韦|expired|1367969042.243|unknown|unknown 
+Mandarin Foundation|36|yu3|羽|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|fei1|非|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|pi2|皮|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|guang1|光|expired|Ignored|unknown|unknown 
+Mandarin Foundation|36|hei1|黑|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|xie3|写|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|36|fei1|飞|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|37|wind|风|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|37|year|年|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|question mark (used at the end of a sentence to denote a question)|吗|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|again|再|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|to breathe|气|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|five|五|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|heaven|天|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|electricity|电|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|ten|十|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|hand|手|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|also|也|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|wood, tree (radical)|木|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|moon, month|月|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|kingdom|国|expired|Ignored|unknown|unknown 
+Mandarin Foundation|37|sign|示|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|feng1|风|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|38|nian2|年|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|ma5|吗|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|zai4|再|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|qi4|气|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|wu3|五|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|tian1|天|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|dian4|电|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|shi2|十|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|shou3|手|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|ye3|也|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|mu4|木|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|yue4|月|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|guo2|国|expired|Ignored|unknown|unknown 
+Mandarin Foundation|38|shi4|示|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|claw|爪|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|three|三|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|mother|妈|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|big|大|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|he|他|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|not|不|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|bird|鸟|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|net|网|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|39|people|民|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|cloth|巾|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|to open|开|expired|Ignored|unknown|unknown 
+Mandarin Foundation|39|cowrie|贝|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|40|zhua3; zhao3|爪|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|san1|三|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|ma1|妈|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|da4|大|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|ta1|他|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|bu4|不|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|niao3|鸟|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|wang3|网|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Foundation|40|min2|民|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|jin1|巾|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|kai1|开|expired|Ignored|unknown|unknown 
+Mandarin Foundation|40|bei4|贝|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|1|mouth|口|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|sun|日|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|child|子|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|man, person|人|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|horse|马|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|field|田|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|earth|土|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|ladle|匕|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|water|水|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|glass jar (radical)|冂|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|cow|牛|expired|1371943442.243|1367709842.243|unknown 
+Mandarin Reading Survival|1|meat|肉|expired|1371943442.243|1367709842.243|unknown 
+Mandarin Reading Survival|1|beef|牛肉|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|1|again, right hand (radical)|又|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|1|old|老|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|kou3|口|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|ri4|日|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|zi3|子|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|ren2|人|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|ma3|马|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|tian2|田|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|tu3|土|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|bi3|匕|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|shui3|水|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|jiong1|冂|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|niu2|牛|expired|1371943442.243|1367709842.243|unknown 
+Mandarin Reading Survival|2|rou4|肉|expired|1371943442.243|1367709842.243|unknown 
+Mandarin Reading Survival|2|niu2 rou4|牛肉|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|2|you4|又|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|2|lao3|老|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|person who does|者|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|small dog (radical)|犭|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|pig|猪|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|pork|猪肉|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|drop (radical)|丶|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|one|一|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|fish|鱼|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|to stop, toe (radical)|止|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|bolt (of fabric)|疋|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|bug|虫|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|egg|蛋|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|wrap (radical)|勹|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|spoon|勺|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|3|bird|鸟|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|3|chicken|鸡|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|4|zhe3|者|expired|1368573842.243|unknown|unknown 
+Mandarin Reading Survival|4|zhu1|猪|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|4|zhu1 rou4|猪肉|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|4|yi1|一|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|4|yu2|鱼|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|4|zhi3|止|expired|1368573842.243|unknown|unknown 
+Mandarin Reading Survival|4|pi3|疋|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|4|chong2|虫|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|4|dan4|蛋|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|4|shao2|勺|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|4|niao3|鸟|expired|1367724242.243|1367709842.243|unknown 
+Mandarin Reading Survival|4|ji1|鸡|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|chicken egg|鸡蛋|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|and yet, beard (radical)|而|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|5|face|面|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|fetus|巳|expired|1369351442.243|unknown|unknown 
+Mandarin Reading Survival|5|to wrap|包|expired|1367756642.243|unknown|unknown 
+Mandarin Reading Survival|5|bread|面包|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|to follow|夂|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|wood, tree (radical)|木|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|twig|条|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|noodles|面条|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|sheep|羊|expired|1371943442.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|rice|米|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|factory, slope (radical meaning)|厂|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|to rebel|反|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|5|food (squished to the side)|饣|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|6|ji1 dan4|鸡蛋|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|er2|而|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|6|mian4|面|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|6|si4|巳|expired|1369351442.243|unknown|unknown 
+Mandarin Reading Survival|6|bao1|包|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|mian4 bao1|面包|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|zhi3|夂|expired|1368055442.243|unknown|unknown 
+Mandarin Reading Survival|6|mu4|木|expired|1371857042.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|tiao2|条|expired|1368314642.243|unknown|unknown 
+Mandarin Reading Survival|6|mian4 tiao2|面条|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|yang2|羊|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|mi3|米|expired|1367742242.243|unknown|unknown 
+Mandarin Reading Survival|6|chang3|厂|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|6|fan3|反|expired|1367709842.243|1367709842.243|unknown 
+Mandarin Reading Survival|7|rice (cooked or boiled)|饭|expired|1368568822.758|unknown|unknown 
+Mandarin Reading Survival|7|grass (radical)|艹|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|small claws|爫|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|to pick|采|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|vegetable|菜|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|7|father|父|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|7|lid (radical)|亠|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|to exchange|交|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|7|dumpling|饺|expired|1368136822.758|unknown|unknown 
+Mandarin Reading Survival|7|dumpling|饺子|expired|1368136822.758|unknown|unknown 
+Mandarin Reading Survival|7|from / by|由|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|female elder, mother|母|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|7|every|每|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|7|three dots water (radical)|氵|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|7|fresh|鲜|expired|1368741622.758|unknown|unknown 
+Mandarin Reading Survival|8|fan4|饭|expired|1368141842.243|unknown|unknown 
+Mandarin Reading Survival|8|cai3|采|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|8|cai4|菜|expired|1368055442.243|unknown|unknown 
+Mandarin Reading Survival|8|fu4|父|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|8|jiao1|交|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|8|jiao3|饺|expired|1368833042.243|unknown|unknown 
+Mandarin Reading Survival|8|jiao3 zi5|饺子|expired|1368055442.243|unknown|unknown 
+Mandarin Reading Survival|8|you2|由|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|8|mu3|母|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|8|mei3|每|expired|1369783442.243|1367709842.243|unknown 
+Mandarin Reading Survival|8|xian1|鲜|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|9|sea|海|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|seafood|海鲜|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|9|oil|油|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|9|west|西|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|alcohol flask (radical)|酉|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|9|wine|酒|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|9|beer|啤|expired|1368309622.758|unknown|unknown 
+Mandarin Reading Survival|9|collectively|共|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|the old days|昔|expired|1369605622.758|unknown|unknown 
+Mandarin Reading Survival|9|vinegar|醋|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|9|ice|冫|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|stick (radical)|丨|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|cot (radical)|丬|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|9|dusk|夕|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|9|sauce|酱|expired|1368309622.758|unknown|unknown 
+Mandarin Reading Survival|10|hai3|海|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|hai3 xian1|海鲜|expired|1368309622.758|unknown|unknown 
+Mandarin Reading Survival|10|you2|油|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|10|xi1|西|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|10|you3|酉|expired|1367877622.758|unknown|unknown 
+Mandarin Reading Survival|10|jiu3|酒|expired|1368309622.758|unknown|unknown 
+Mandarin Reading Survival|10|pi2|啤|expired|1367877622.758|unknown|unknown 
+Mandarin Reading Survival|10|gong4|共|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|xi1|昔|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|cu4|醋|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|10|bing1|冫|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|gun3|丨|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|qiang2|丬|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|xi1|夕|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|10|jiang4|酱|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|soy sauce|酱油|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|tea|茶|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|don&#39;t|勿|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|soup|汤|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|corpse (radical)|尸|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|door (radical)|户|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|eight|八|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|bean, flask (radical)|豆|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|flat|扁|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|potato|土豆|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|vast, lean-to (radical)|广|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|man (squished to the side)|亻|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|chinese inch, thumb (radical)|寸|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|11|rotten|腐|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|11|tofu|豆腐|expired|1368396022.758|unknown|unknown 
+Mandarin Reading Survival|12|jiang4 you2|酱油|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|12|cha2|茶|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|12|wu4|勿|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|12|tang1|汤|expired|1368487442.243|unknown|unknown 
+Mandarin Reading Survival|12|shi1|尸|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|12|hu4|户|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|12|ba1|八|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|12|dou4|豆|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|12|bian3|扁|expired|1368487442.243|unknown|unknown 
+Mandarin Reading Survival|12|tu3 dou4|土豆|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|12|guang3|广|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|12|cun4|寸|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|12|fu3|腐|expired|1368573842.243|unknown|unknown 
+Mandarin Reading Survival|12|dou4 fu5|豆腐|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|13|strength|力|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|to increase|加|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|eggplant, aubergine|茄|expired|1369432822.758|unknown|unknown 
+Mandarin Reading Survival|13|white|白|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|fire|火|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|four dots fire (radical)|灬|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|to be tested|考|expired|1368741622.758|unknown|unknown 
+Mandarin Reading Survival|13|roast|烤|expired|1368741622.758|unknown|unknown 
+Mandarin Reading Survival|13|flash fried|煸|expired|1368741622.758|unknown|unknown 
+Mandarin Reading Survival|13|small|小|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|few|少|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|13|stir fried|炒|expired|1369432822.758|unknown|unknown 
+Mandarin Reading Survival|13|suddenly|乍|expired|1368741622.758|unknown|unknown 
+Mandarin Reading Survival|13|fried; deep-fried|炸|expired|1369432822.758|unknown|unknown 
+Mandarin Reading Survival|13|knife|刀|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|14|li4|力|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|14|jia1|加|expired|1368228242.243|1367709842.243|unknown 
+Mandarin Reading Survival|14|qie2|茄|expired|1368573842.243|unknown|unknown 
+Mandarin Reading Survival|14|bai2|白|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|14|huo3|火|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|14|kao3|考|expired|1368746642.243|unknown|unknown 
+Mandarin Reading Survival|14|kao3|烤|expired|1367753042.243|1367709842.243|unknown 
+Mandarin Reading Survival|14|bian1|煸|expired|1369610642.243|unknown|unknown 
+Mandarin Reading Survival|14|xiao3|小|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|14|shao3|少|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|14|chao3|炒|expired|1368573842.243|unknown|unknown 
+Mandarin Reading Survival|14|zha4|乍|expired|1368746642.243|unknown|unknown 
+Mandarin Reading Survival|14|zha2; zha4|炸|expired|1368746642.243|unknown|unknown 
+Mandarin Reading Survival|14|dao1|刀|expired|1368746642.243|unknown|unknown 
+Mandarin Reading Survival|15|small knife (radical)|刂|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|15|dart (also: dagger)|弋|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|lance (also: spear)|戈|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|roasted with sauce|烧|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|15|barbecued|烧烤|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|to say|曰|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|15|to explode|爆|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|fish hook|乙|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|bowl|凵|expired|1367877622.758|unknown|unknown 
+Mandarin Reading Survival|15|north|北|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|capital|京|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|Beijing|北京|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|dry|干|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|south|南|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|15|Nanjing|南京|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|yi4|弋|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|ge1|戈|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|shao1|烧|expired|1368309622.758|unknown|unknown 
+Mandarin Reading Survival|16|shao1 kao3|烧烤|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|16|yue1|曰|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|16|bao4|爆|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|yi3|乙|expired|1369260022.758|unknown|unknown 
+Mandarin Reading Survival|16|qu1|凵|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|bei3|北|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|jing1|京|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|16|bei3 jing1|北京|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|gan1|干|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|16|nan2|南|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|16|nan2 jing1|南京|expired|1368828022.758|unknown|unknown 
+Mandarin Reading Survival|17|upon|上|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|Shanghai|上海|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|17|crown (radical)|冖|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|roof (radical)|宀|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|woman|女|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|peace|安|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|17|Xi&#39;an|西安|expired|1367877622.758|unknown|unknown 
+Mandarin Reading Survival|17|grain|禾|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|fragrant|香|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|lane|巷|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|17|harbour|港|expired|1367877622.758|unknown|unknown 
+Mandarin Reading Survival|17|Hong Kong|香港|expired|1369346422.758|unknown|unknown 
+Mandarin Reading Survival|17|cocoon (radical)|厶|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|east|东|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|17|king|王|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|shang4|上|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|shang4 hai3|上海|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|18|nv3|女|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|an1|安|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|18|xi1 an1|西安|expired|1369000822.758|unknown|unknown 
+Mandarin Reading Survival|18|he2|禾|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|xiang1|香|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|xiang4|巷|expired|1368050422.758|unknown|unknown 
+Mandarin Reading Survival|18|gang3|港|expired|1369346422.758|unknown|unknown 
+Mandarin Reading Survival|18|xiang1 gang3|香港|expired|1369346422.758|unknown|unknown 
+Mandarin Reading Survival|18|dong1|东|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|18|wang2|王|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|jade|玉|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|centre|央|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|hero|英|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|surround|囗|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|kingdom|国|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|England|英国|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|19|big|大|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|beautiful|美|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|USA|美国|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|19|middle|中|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|China|中国|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|son|儿|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|four|四|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|river|川|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|19|Sichuan|四川|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|20|yu4|玉|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|yang1|央|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|ying1|英|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|wei2|囗|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|guo2|国|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|ying1 guo2|英国|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|20|da4|大|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|mei3|美|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|mei3 guo2|美国|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|20|zhong1|中|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|zhong1 guo2|中国|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|er2|儿|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|si4|四|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|chuan1|川|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|20|si4 chuan1|四川|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|21|magic (radical)|卜|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|to divine|占|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|to look forward to|巴|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|net|网|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|bar|吧|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|Internet Cafe|网吧|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|21|pub|酒吧|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|21|arrow|矢|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|basket (radical)|匸|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|doctor|医|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|mound or city (radical)|阝|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|dollar|元|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|courtyard|院|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|21|mail|邮|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|21|office, chessboard (radical meaning)|局|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|22|bu3|卜|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|zhan1; zhan4|占|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|ba1|巴|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|wang3|网|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|ba1|吧|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|wang3 ba1|网吧|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|22|jiu3 ba1|酒吧|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|22|shi3|矢|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|yi1|医|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|yuan2|元|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|yuan4|院|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|22|you2|邮|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|22|ju2|局|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|23|post office|邮局|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|23|mountain|山|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|to go out|出|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|eye|目|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|moreover, a long time (radical)|且|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|car|车|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|half a kilo, axe (radical)|斤|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|guest|宾|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|23|a government official|官|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|hall|馆|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|23|hotel|宾馆|expired|1367756642.243|unknown|unknown 
+Mandarin Reading Survival|23|noodle house|面馆|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|23|gold|金|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|gold (squished to the side)|钅|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|23|stubborn|艮|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|you2 ju2|邮局|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|24|shan1|山|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|chu1|出|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|mu4|目|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|qie3|且|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|che1|车|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|jin1|斤|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|bin1|宾|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|24|guan1|官|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|guan3|馆|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|24|Bin1 guan3|宾馆|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|24|mian4 guan3|面馆|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|24|jin1|金|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|24|gen3|艮|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|silver|银|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|25|step|彳|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|nail|丁|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|okay|行|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|25|profession|行|expired|1367760242.243|unknown|unknown 
+Mandarin Reading Survival|25|bank|银行|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|25|to walk|走|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|to exceed|超|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|25|open space|场|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|cloth|巾|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|market|市|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|supermarket|超市|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|25|train|火车|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|25|to stand|立|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|25|station|站|expired|1367756642.243|unknown|unknown 
+Mandarin Reading Survival|26|yin2|银|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|26|chi4|彳|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|ding1|丁|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|xing2|行|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|26|hang2|行|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|26|yin2 hang2|银行|expired|1368401042.243|unknown|unknown 
+Mandarin Reading Survival|26|zou3|走|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|chao1|超|expired|1368055442.243|unknown|unknown 
+Mandarin Reading Survival|26|chang3|场|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|jin1|巾|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|shi4|市|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|chao1 shi4|超市|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|26|huo3 che1|火车|expired|1367745842.243|unknown|unknown 
+Mandarin Reading Survival|26|li4|立|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|26|zhan4|站|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|27|small table|几|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|27|machine|机|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|27|airport|机场|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|to enter|入|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|27|entrance|入口|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|exit|出口|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|male|男|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|27|palace|宫|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|kung-po chicken|宫爆鸡丁|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|to boil|煮|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|boiled water beef|水煮牛肉|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|to string together|串|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|lamb skewer|羊肉串|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|fish fragrant aubergine|鱼香茄子|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|27|silk (squished to the side)|纟|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|28|ji1; ji3|几|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|28|ji1|机|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|28|ji1 chang3|机场|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|28|ru4|入|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|28|ru4 kou3|入口|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|28|chu1 kou3|出口|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|28|nan2|男|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|28|gong1|宫|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|28|gong1 bao4 ji1 ding1|宫爆鸡丁|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|28|zhu3|煮|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|28|shui3 zhu3 niu2 rou4|水煮牛肉|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|28|chuan4|串|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|28|yang2 rou4 chuan4|羊肉串|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|28|yu2 xiang1 qie2 zi5|鱼香茄子|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|29|shredded|丝|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|fish fragrant shredded pork|鱼香肉丝|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|fork|叉|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|sweet roast pork|叉烧|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|29|a bit|点|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|29|heart|心|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|29|dim sum|点心|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|steamed stuffed bun|包子|expired|1368228242.243|unknown|unknown 
+Mandarin Reading Survival|29|duck|鸭|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|Peking duck|北京烤鸭|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|to return|回|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|29|inside|内|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|29|pot|锅|expired|1367753042.243|1367708037.876|13 hours 
+Mandarin Reading Survival|29|hot pot|火锅|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|29|twice cooked pork|回锅肉|expired|1367969042.243|unknown|unknown 
+Mandarin Reading Survival|30|si1|丝|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|30|yu2 xiang1 rou4 si1|鱼香肉丝|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|cha1|叉|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|cha1 shao1|叉烧|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|dian3|点|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|30|xin1|心|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|30|dian3 xin1|点心|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|30|bao1 zi5|包子|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|ya1|鸭|expired|1368223222.758|unknown|unknown 
+Mandarin Reading Survival|30|bei3 jing1 kao3 ya1|北京烤鸭|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|hui2|回|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|30|nei4|内|expired|Ignored|unknown|unknown 
+Mandarin Reading Survival|30|guo1|锅|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|huo3 guo1|火锅|expired|1367964022.758|unknown|unknown 
+Mandarin Reading Survival|30|hui2 guo1 rou4|回锅肉|expired|1368223222.758|unknown|unknown 
